@@ -1,3 +1,7 @@
+# THIS IS A DIRECT FORK of spipu/html2pdf
+
+Actually, just changed "composer.json" to change requirements to php8 and we will update code with fixing bugs
+
 # Html2Pdf
 
 Html2Pdf is a HTML to PDF converter written in PHP, and compatible with PHP **5.6** to **7.4**.
